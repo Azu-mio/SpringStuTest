@@ -1,0 +1,13 @@
+package com.ahucm.stutest;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class StutestApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
